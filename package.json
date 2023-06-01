@@ -1,6 +1,6 @@
 {
-    "name": "tiktoken-node",
-    "version": "0.0.6",
+    "name": "@mrlowlevel/tiktoken-node",
+    "version": "0.0.8",
     "types": "index.d.ts",
     "main": "index.cjs",
     "napi": {
@@ -42,6 +42,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ceifa/tiktoken-node"
+        "url": "https://github.com/adri1wald/tiktoken-node"
     }
 }
